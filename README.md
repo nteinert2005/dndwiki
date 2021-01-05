@@ -16,6 +16,21 @@
 
 <details open='open'>
     <summary>Table of Contents</summary>
+    <ol>
+        <li><a href="#about-the-project"> About the Project </a></li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#roadmap">Roadmap </a></li>
+        <li><a href="#license">License</a></li>
+    </ol>
 </details>
 
 ## About The Project
+
+## Usage
+
+## Roadmap
+See the [open issues](https://github.com/nteinert2005/dndwikiissues) for a list of proposed features (and known issues).
+
+## License 
+
+Distributed under the MIT License. See 'LICENSE' for more information.

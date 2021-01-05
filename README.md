@@ -18,6 +18,7 @@
     <summary>Table of Contents</summary>
     <ol>
         <li><a href="#about-the-project"> About the Project </a></li>
+        <li><a href="#installation">Installation</a></li>
         <li><a href="#usage">Usage</a></li>
         <li><a href="#roadmap">Roadmap </a></li>
         <li><a href="#license">License</a></li>
@@ -26,7 +27,22 @@
 </details>
 
 ## About The Project
-As an avid fan of all things Dungeons & Dragons (DND), I found that I couldn't find any static site generators to allow me to host my custom content offline. So I created this project. Hopefully, this can be useful for the community of DND and fellow developers. 
+As an avid fan of all things Dungeons & Dragons (DND), I found that I couldn't find any static site generators to allow me to host my custom content offline. So I created this project. Hopefully, this can be useful for the community of DND and fellow developers.
+
+## Installation
+1. Clone the repo 
+    ```sh
+    git clone https://github.com/nteinert2005/dndwiki.git
+    ```
+2. Install NPM packages
+    ```sh
+    npm install 
+    ```
+3. Uploaded markdown files into public/files (templates provided)
+4. Run the server
+    ```sh
+    npm start
+    ```
 
 ## Usage
 The perfect usage of this DM and players to be able to have offline custom content delivered on a home server or allow non-developers to be able to have great looking pages with simple markdown. 

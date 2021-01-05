@@ -25,8 +25,10 @@
 </details>
 
 ## About The Project
+As an avid fan of all things Dungeons & Dragons (DND), I found that I couldn't find any static site generators to allow me to host my custom content offline. So I created this project. Hopefully, this can be useful for the community of DND and fellow developers. 
 
 ## Usage
+The perfect usage of this DM and players to be able to have offline custom content delivered on a home server or allow non-developers to be able to have great looking pages with simple markdown. 
 
 ## Roadmap
 See the [open issues](https://github.com/nteinert2005/dndwikiissues) for a list of proposed features (and known issues).

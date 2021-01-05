@@ -33,7 +33,7 @@ The perfect usage of this DM and players to be able to have offline custom conte
 After using simple Markdown language, you can have custom pages like this. 
 
 <a href="#">
-    <img src="/images/sample.png">
+    <img src="./images/sample.png">
 </a>
 
 ## Roadmap

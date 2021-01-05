@@ -21,6 +21,7 @@
         <li><a href="#usage">Usage</a></li>
         <li><a href="#roadmap">Roadmap </a></li>
         <li><a href="#license">License</a></li>
+        <li><a href="#acknowledgements">Acknowledgements</a></li>
     </ol>
 </details>
 
@@ -42,3 +43,7 @@ See the [open issues](https://github.com/nteinert2005/dndwikiissues) for a list 
 ## License 
 
 Distributed under the MIT License. See 'LICENSE' for more information.
+
+## Acknowledgements 
+* [DND](https://www.dndbeyond.com/) - for all stat blocks, etc.
+* [Homebrewery](https://homebrewery.naturalcrit.com/) - for inspiration

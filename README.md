@@ -30,6 +30,12 @@ As an avid fan of all things Dungeons & Dragons (DND), I found that I couldn't f
 ## Usage
 The perfect usage of this DM and players to be able to have offline custom content delivered on a home server or allow non-developers to be able to have great looking pages with simple markdown. 
 
+After using simple Markdown language, you can have custom pages like this. 
+
+<a href="#">
+    <img src="/images/sample.png">
+</a>
+
 ## Roadmap
 See the [open issues](https://github.com/nteinert2005/dndwikiissues) for a list of proposed features (and known issues).
 

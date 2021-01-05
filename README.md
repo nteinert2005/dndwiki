@@ -12,9 +12,9 @@
         .
         <a href="https://github.com/nteinert2005/dndwiki/issues"> Request Features </a>
         . 
-        <a href="https://github.com/nteinert2005/dndwiki/contributing">Contributing </a>
+        <a href="https://github.com/nteinert2005/dndwiki/blob/main/contributing.md">Contributing </a>
         .
-        <a href="https://github.com/nteinert2005/dndwiki/changelog">Changelog </a>
+        <a href="https://github.com/nteinert2005/dndwiki/blob/main/changelog.md">Changelog </a>
     </p>
 </p>
 
